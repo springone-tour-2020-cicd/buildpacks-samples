@@ -17,3 +17,5 @@ version = "0.0.1"
 [[order.group]]
 id = "samples/hello-moon"
 version = "0.0.1"
+[[stacks]]
+id = "io.buildpacks.stacks.bionic"
